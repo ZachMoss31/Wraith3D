@@ -1,0 +1,3 @@
+﻿  Hello.cpp
+C:\Users\ganon\Portfolio Projects\Wraith3D\Wraith3DEngine\Wraith3DEngine\Hello.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Wraith3DEngine.vcxproj -> C:\Users\ganon\Portfolio Projects\Wraith3D\Wraith3DEngine\x64\Debug\Wraith3DEngine.exe
